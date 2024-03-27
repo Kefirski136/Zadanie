@@ -1,0 +1,55 @@
+/* div h2{
+    background-color: green;
+} */
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+/* .pierwsza {
+    background-color: green;
+}
+
+.druga {
+    background-color: red;
+} */
+
+/* div{
+    background-image: url("img.png");
+} */
+
+/* div h2::before {
+    content:"Projekt:";
+    background-color: red;
+} */
+
+/* h2:not(.test) {
+    background-color: red;
+} */
+
+/* div h2:hover{
+    background-color: blue;
+    transform:scaleY(2);
+    transition: 0.5s;
+}
+
+div h2:not(:hover) {
+    background-color: green;
+    transform:scaleY(1);
+    transition: 0.5s;
+} */
+
+/* @media (min-width: 20em) and (max-width: 50em) {
+    div{
+        background-image: none;
+        background-color: red;
+    }
+  }
+
+  @media (max-width: 20em) {
+    div{
+        background-image: none;
+        background-color: green;
+    }
+  } */
